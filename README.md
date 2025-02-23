@@ -42,3 +42,5 @@ Enhance customer satisfaction initiatives to maintain high engagement and loyalt
 Target underperforming regions with localized marketing strategies and promotions.
 Analyze peak sales months to identify key drivers and optimize product offerings accordingly.
 Improve profit margins by optimizing pricing strategies and cost efficiency.
+
+- <a href "https://github.com/Helloshamna/Data-analysis-Dashboard/blob/main/Screenshot%202025-02-22%20163259.png">Datasete<a/a>
